@@ -28,11 +28,12 @@ Go Above and Beyond
 
 
  ### Screenshot
+ ![screenshot](/screenshot.png)
 
 ### Links
 
-- Scrim: [Scrim](https://scrimba.com/scrim/co66f4672bc42a373fbd1968f)
-- Github: [Github](https://github.com/casserole27/counter-app)
+- Scrim: [Scrim](https://scrimba.com/scrim/co10544fc95653cd05b4ce0d6)
+- Github: [Github]()
 - Live Site: [Live Site](https://www.clewisdev.com/counter-app/)
 
 ## My process
@@ -74,8 +75,10 @@ Check markup and accessibility
 
 ### Built with
 
+- semantic HTML
 - CSS custom properties
 - Responsive Web Design
+- vanilla JavaScript
 
 ### What I learned
 
